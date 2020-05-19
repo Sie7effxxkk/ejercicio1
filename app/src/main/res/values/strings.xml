@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Miprimerproyecto</string>
+    <string name="editar_Mensaje" translatable="false">ingrese el mensaje</string>
+    <string name="boton_Enviar" translatable="false">Enviar</string>
+</resources>
